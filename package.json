@@ -1,7 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "deploy": "npm run build && gh-pages -d build"
     "dev": "next",
     "build": "next build",
     "start": "next start",
